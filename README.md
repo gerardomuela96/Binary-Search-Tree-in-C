@@ -1,4 +1,4 @@
-#Binary Search Tree interface implemented in the C programming language
+# Binary Search Tree interface implemented in the C programming language
 
 A Binary Search Tree interface for a user to create a Binary Search Tree of employee names
 using mutliple functions such as, add, delete, list, read and write to and from a file. The
